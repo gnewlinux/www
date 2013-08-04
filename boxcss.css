@@ -1,0 +1,27 @@
+body{
+	margin-top: 100px;
+	margin-left: 70px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	background-color: gray;
+	width: 600px;
+}
+
+#teste{
+	margin-left: 100px;
+	margin-left: 20px;
+	margin-bottom: 40px;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+h1{
+	padding: 100px 50px 10px 70px;
+	background: orange;
+}
+
+h2{
+	padding: 20px 10px 5px 10px;
+	background: yellow;
+}

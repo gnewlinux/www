@@ -1,7 +1,14 @@
 body{
 	background-color: blue;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-image: url("brasil.jpeg");
+	background-attachment: scroll;
 }
 
 h1{
 	color: white;
+	font-family: arial;
+	font-size: 30px;
+	background-color: black;
 }

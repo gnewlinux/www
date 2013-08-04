@@ -1,5 +1,5 @@
 body{
-	background-color: blue;
+	background-color: gray;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-image: url("brasil.jpeg");
@@ -11,4 +11,12 @@ h1{
 	font-family: arial;
 	font-size: 30px;
 	background-color: black;
+	text-align: center;
+}
+p{
+	color: white;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 12;
 }
